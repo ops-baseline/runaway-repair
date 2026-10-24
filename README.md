@@ -86,5 +86,7 @@ useful on its own whether or not you ever buy anything. If it is not useful to y
 
 ## Status
 
-The demo is the whole of this repository today. Corrections and reports of this failure taking a
-different shape in practice are genuinely wanted.
+The demo is the whole of this repository today.
+
+Corrections, questions, or a report of this failure taking a different shape in practice are
+genuinely wanted: **support@opsbaseline.com**.
